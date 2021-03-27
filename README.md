@@ -1,2 +1,2 @@
 # Python
-Python code/projects related to econometrics, ML, data analysis and finance. 
+Python code/projects related to ML, statistics, data analysis and quantitative finance. 
